@@ -1,5 +1,5 @@
 {
-  "homepage": "https://gitmehdii/deploy-sas",
+  "homepage": "https://gitmehdii/app-react-spa",
   "name": "app-react-spa",
   "private": true,
   "version": "0.0.0",
@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "react": "^18.2.0",
